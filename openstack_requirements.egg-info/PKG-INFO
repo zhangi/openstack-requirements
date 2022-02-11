@@ -1,0 +1,40 @@
+Metadata-Version: 1.1
+Name: openstack-requirements
+Version: 1.2.1.dev4939
+Summary: OpenStack python dependency management tools
+Home-page: https://docs.openstack.org/requirements/latest/
+Author: OpenStack
+Author-email: openstack-discuss@lists.openstack.org
+License: UNKNOWN
+Description: ===========================================================
+         Global Requirements and Constraints for OpenStack Projects
+        ===========================================================
+        
+        .. image:: https://governance.openstack.org/tc/badges/requirements.svg
+            :target: https://governance.openstack.org/tc/reference/tags/index.html
+        
+        Resources and Documentation
+        ===========================
+        
+        Please refer to the dependency management documentation linked below for up to
+        date documentation on how to use and interact with the requirements project.
+        
+        - Documentation: https://docs.openstack.org/project-team-guide/dependency-management.html
+        - Wiki: https://wiki.openstack.org/wiki/Requirements
+        - Bugs: https://launchpad.net/openstack-requirements
+        - Source: https://opendev.org/openstack/requirements
+        
+        
+Platform: UNKNOWN
+Classifier: Environment :: OpenStack
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8

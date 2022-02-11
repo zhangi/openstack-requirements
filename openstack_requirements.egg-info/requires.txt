@@ -1,0 +1,7 @@
+Parsley>=1.2
+PyYAML>=3.12
+beagle>=0.2.1
+fixtures>=3.0.0
+packaging!=20.5,!=20.6,!=20.7,>=16.5
+requests>=2.14.2
+six>=1.10.0
